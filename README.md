@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishanKant2256/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KrishanKant2256/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KrishanKant2256/leetcode/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/KrishanKant2256/leetcode/tree/master/0164-maximum-gap) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishanKant2256/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishanKant2256/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KrishanKant2256/leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KrishanKant2256/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KrishanKant2256/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
