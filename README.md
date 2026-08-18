@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishanKant2256/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KrishanKant2256/leetcode/tree/master/0042-trapping-rain-water) |
+| [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Stack
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishanKant2256/leetcode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
