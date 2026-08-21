@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KrishanKant2256/leetcode/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/KrishanKant2256/leetcode/tree/master/0242-valid-anagram) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KrishanKant2256/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishanKant2256/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KrishanKant2256/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Math
