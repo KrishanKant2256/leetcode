@@ -1,22 +1,21 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        for (char c : s.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+        int map[]=new int[26];
+        for(int i=0;i<s.length();i++)
+        {
+            map[s.charAt(i)-'a']++;
         }
-
-        for (char c : t.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) - 1);
+        for(int i=0;i<t.length();i++)
+        {
+            map[t.charAt(i)-'a']--;
         }
-
-        for (char c : map.keySet()) {
-            if (map.get(c) != 0) {
-                return c;
+        for(int i=0;i<26;i++)
+        {
+            if(map[i]!=0)
+            {
+                return (char)('a' + i);
             }
         }
-
         return ' ';
     }
 }
