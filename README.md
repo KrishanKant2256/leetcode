@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/KrishanKant2256/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/KrishanKant2256/leetcode/tree/master/0520-detect-capital) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Math
 |  |
