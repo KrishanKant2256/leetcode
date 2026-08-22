@@ -10,7 +10,7 @@ class Solution {
             product=product*d;
             num=num/10;
         }
-        int ultimateSum=sum+product;
-        return n%ultimateSum==0;
+        
+        return n%(sum+product)==0;
     }
 }
