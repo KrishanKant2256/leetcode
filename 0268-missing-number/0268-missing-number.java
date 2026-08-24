@@ -6,10 +6,7 @@ class Solution {
         {
             sum=nums[i]+sum;
         }
-        for(int i=1;i<nums.length+1;i++)
-        {
-            s=s+i;
-        }
+        s=(nums.length*(nums.length+1))/2;
         return s-sum;
     }
 }
