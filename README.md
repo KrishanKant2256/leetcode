@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KrishanKant2256/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KrishanKant2256/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/KrishanKant2256/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishanKant2256/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KrishanKant2256/leetcode/tree/master/0704-binary-search) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishanKant2256/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/KrishanKant2256/leetcode/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishanKant2256/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/KrishanKant2256/leetcode/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Sorting
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KrishanKant2256/leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/KrishanKant2256/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishanKant2256/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KrishanKant2256/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
