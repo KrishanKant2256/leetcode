@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1470-shuffle-the-array](https://github.com/KrishanKant2256/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/KrishanKant2256/leetcode/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2706-buy-two-chocolates](https://github.com/KrishanKant2256/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrishanKant2256/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/KrishanKant2256/leetcode/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrishanKant2256/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
 | [0922-sort-array-by-parity-ii](https://github.com/KrishanKant2256/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
+| [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/KrishanKant2256/leetcode/tree/master/0520-detect-capital) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/KrishanKant2256/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KrishanKant2256/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Math
 |  |
