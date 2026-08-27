@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KrishanKant2256/leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/KrishanKant2256/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/KrishanKant2256/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KrishanKant2256/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KrishanKant2256/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KrishanKant2256/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/KrishanKant2256/leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/KrishanKant2256/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KrishanKant2256/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KrishanKant2256/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KrishanKant2256/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/KrishanKant2256/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
