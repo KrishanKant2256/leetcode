@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/KrishanKant2256/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KrishanKant2256/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KrishanKant2256/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/KrishanKant2256/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KrishanKant2256/leetcode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
@@ -211,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KrishanKant2256/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KrishanKant2256/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
