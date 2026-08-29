@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KrishanKant2256/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/KrishanKant2256/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/KrishanKant2256/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KrishanKant2256/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KrishanKant2256/leetcode/tree/master/0389-find-the-difference) |
 ## Queue
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishanKant2256/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
