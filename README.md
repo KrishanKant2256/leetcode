@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KrishanKant2256/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/KrishanKant2256/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishanKant2256/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/KrishanKant2256/leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KrishanKant2256/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/KrishanKant2256/leetcode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KrishanKant2256/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/KrishanKant2256/leetcode/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/KrishanKant2256/leetcode/tree/master/0771-jewels-and-stones) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/KrishanKant2256/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KrishanKant2256/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
