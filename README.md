@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KrishanKant2256/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3110-score-of-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/KrishanKant2256/leetcode/tree/master/3163-string-compression-iii) |
 ## Math
 |  |
