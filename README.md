@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/KrishanKant2256/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KrishanKant2256/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KrishanKant2256/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/KrishanKant2256/leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/KrishanKant2256/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/KrishanKant2256/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/KrishanKant2256/leetcode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KrishanKant2256/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrishanKant2256/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishanKant2256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KrishanKant2256/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/KrishanKant2256/leetcode/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
