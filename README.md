@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishanKant2256/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/KrishanKant2256/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/KrishanKant2256/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/KrishanKant2256/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/KrishanKant2256/leetcode/tree/master/2540-minimum-common-value) |
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KrishanKant2256/leetcode/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KrishanKant2256/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
