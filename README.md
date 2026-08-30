@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/KrishanKant2256/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KrishanKant2256/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KrishanKant2256/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/KrishanKant2256/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/KrishanKant2256/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KrishanKant2256/leetcode/tree/master/0509-fibonacci-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishanKant2256/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/KrishanKant2256/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KrishanKant2256/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/KrishanKant2256/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/KrishanKant2256/leetcode/tree/master/1539-kth-missing-positive-number) |
