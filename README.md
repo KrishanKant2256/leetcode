@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/KrishanKant2256/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KrishanKant2256/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/KrishanKant2256/leetcode/tree/master/1323-maximum-69-number) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrishanKant2256/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Counting
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/KrishanKant2256/leetcode/tree/master/1323-maximum-69-number) |
 | [2706-buy-two-chocolates](https://github.com/KrishanKant2256/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
