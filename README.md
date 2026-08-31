@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/KrishanKant2256/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishanKant2256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/KrishanKant2256/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KrishanKant2256/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/KrishanKant2256/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KrishanKant2256/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/KrishanKant2256/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/KrishanKant2256/leetcode/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KrishanKant2256/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/KrishanKant2256/leetcode/tree/master/2706-buy-two-chocolates) |
