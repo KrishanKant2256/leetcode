@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/KrishanKant2256/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/KrishanKant2256/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KrishanKant2256/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KrishanKant2256/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KrishanKant2256/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/KrishanKant2256/leetcode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrishanKant2256/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/KrishanKant2256/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KrishanKant2256/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KrishanKant2256/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KrishanKant2256/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/KrishanKant2256/leetcode/tree/master/1323-maximum-69-number) |
