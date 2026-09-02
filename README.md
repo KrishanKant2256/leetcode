@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KrishanKant2256/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/KrishanKant2256/leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0867-transpose-matrix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KrishanKant2256/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KrishanKant2256/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/KrishanKant2256/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KrishanKant2256/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/KrishanKant2256/leetcode/tree/master/0292-nim-game) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KrishanKant2256/leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishanKant2256/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
 |  |
