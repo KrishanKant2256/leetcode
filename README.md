@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KrishanKant2256/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KrishanKant2256/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KrishanKant2256/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/KrishanKant2256/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KrishanKant2256/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishanKant2256/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KrishanKant2256/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KrishanKant2256/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KrishanKant2256/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KrishanKant2256/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KrishanKant2256/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/KrishanKant2256/leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KrishanKant2256/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/KrishanKant2256/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/KrishanKant2256/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KrishanKant2256/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/KrishanKant2256/leetcode/tree/master/0704-binary-search) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KrishanKant2256/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KrishanKant2256/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishanKant2256/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KrishanKant2256/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/KrishanKant2256/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KrishanKant2256/leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
@@ -355,8 +359,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KrishanKant2256/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/KrishanKant2256/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KrishanKant2256/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KrishanKant2256/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
