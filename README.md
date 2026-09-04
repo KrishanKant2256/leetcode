@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KrishanKant2256/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KrishanKant2256/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishanKant2256/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/KrishanKant2256/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/KrishanKant2256/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KrishanKant2256/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KrishanKant2256/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/KrishanKant2256/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
