@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrishanKant2256/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrishanKant2256/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Two Pointers
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3110-score-of-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/KrishanKant2256/leetcode/tree/master/3163-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/KrishanKant2256/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Math
