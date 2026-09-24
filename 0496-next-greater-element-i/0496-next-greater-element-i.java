@@ -9,7 +9,7 @@ class Solution {
                 j++;
             }
             int k = j + 1;
-            while (k < nums2.length && nums2[k] < nums1[i]) {
+            while (k < nums2.length && nums2[k] < nums2[j]) {
                 k++;
             }
             if (k < nums2.length) {
