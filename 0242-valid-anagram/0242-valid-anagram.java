@@ -4,18 +4,16 @@ class Solution {
         {
             return false;
         }
-        HashMap<Character,Integer> map=new HashMap<>();
-        for(char c:s.toCharArray())
+        int sMap[]=new int[26];
+        int tMap[]=new int[26];
+        for(int i=0;i<s.length();i++)
         {
-            map.put(c,map.getOrDefault(c,0)+1);
+            sMap[s.charAt(i)-'a']++;
+            tMap[t.charAt(i)-'a']++;
         }
-        for(char c:t.toCharArray())
+        for(int i=0;i<26;i++)
         {
-            map.put(c,map.getOrDefault(c,0)-1);
-        }
-        for(int count:map.values())
-        {
-            if(count!=0)
+            if(sMap[i]!=tMap[i])
             {
                 return false;
             }
