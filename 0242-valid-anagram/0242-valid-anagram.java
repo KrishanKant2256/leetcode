@@ -11,13 +11,9 @@ class Solution {
             sMap[s.charAt(i)-'a']++;
             tMap[t.charAt(i)-'a']++;
         }
-        for(int i=0;i<26;i++)
-        {
-            if(sMap[i]!=tMap[i])
-            {
-                return false;
-            }
+        if(Arrays.equals(sMap,tMap)){
+            return true;
         }
-        return true;
+        return false;
     }
 }
