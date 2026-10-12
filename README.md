@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KrishanKant2256/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KrishanKant2256/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/KrishanKant2256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/KrishanKant2256/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/KrishanKant2256/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KrishanKant2256/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/KrishanKant2256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/KrishanKant2256/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KrishanKant2256/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KrishanKant2256/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KrishanKant2256/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KrishanKant2256/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/KrishanKant2256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/KrishanKant2256/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishanKant2256/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/KrishanKant2256/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/KrishanKant2256/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/KrishanKant2256/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/KrishanKant2256/leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/KrishanKant2256/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/KrishanKant2256/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishanKant2256/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishanKant2256/leetcode/tree/master/1021-remove-outermost-parentheses) |
