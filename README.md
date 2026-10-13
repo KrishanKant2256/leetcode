@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KrishanKant2256/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishanKant2256/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KrishanKant2256/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KrishanKant2256/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KrishanKant2256/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1528-shuffle-string](https://github.com/KrishanKant2256/leetcode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/KrishanKant2256/leetcode/tree/master/1544-make-the-string-great) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/KrishanKant2256/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/KrishanKant2256/leetcode/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KrishanKant2256/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/KrishanKant2256/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KrishanKant2256/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -557,4 +559,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KrishanKant2256/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KrishanKant2256/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/KrishanKant2256/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
