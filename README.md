@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KrishanKant2256/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/KrishanKant2256/leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KrishanKant2256/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/KrishanKant2256/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KrishanKant2256/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrishanKant2256/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/KrishanKant2256/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishanKant2256/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KrishanKant2256/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/KrishanKant2256/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2540-minimum-common-value](https://github.com/KrishanKant2256/leetcode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KrishanKant2256/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/KrishanKant2256/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KrishanKant2256/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/KrishanKant2256/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/KrishanKant2256/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3110-score-of-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3110-score-of-a-string) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/KrishanKant2256/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/KrishanKant2256/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/KrishanKant2256/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KrishanKant2256/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Binary Search
