@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/KrishanKant2256/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KrishanKant2256/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/KrishanKant2256/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/KrishanKant2256/leetcode/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/KrishanKant2256/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/KrishanKant2256/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/KrishanKant2256/leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/KrishanKant2256/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/KrishanKant2256/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KrishanKant2256/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KrishanKant2256/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/KrishanKant2256/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KrishanKant2256/leetcode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/KrishanKant2256/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
