@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KrishanKant2256/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KrishanKant2256/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishanKant2256/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/KrishanKant2256/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KrishanKant2256/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/KrishanKant2256/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KrishanKant2256/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
