@@ -1,6 +1,5 @@
 class Solution {
     public void reverseString(char[] s) {
-        
         int right=0;
         int left=s.length-1;
         while(left>right)
