@@ -1,39 +1,20 @@
 class Solution {
     public String[] createGrid(int m, int n) {
-        String[] grid = new String[m];
+        char[][] g = new char[m][n];
+        for (int i = 0; i < m; i++) {
+            Arrays.fill(g[i], '#');
+        }
+
+        Arrays.fill(g[0], '.');
 
         for (int i = 0; i < m; i++) {
-            char[] row = new char[n];
-
-            for (int j = 0; j < n; j++) {
-                row[j] = '#';
-            }
-
-            grid[i] = new String(row);
+            g[i][n - 1] = '.';
         }
 
-        char[] firstRow = new char[n];
-        for (int j = 0; j < n; j++) {
-            firstRow[j] = '.';
-        }
-        grid[0] = new String(firstRow);
-
-        char[] lastColumn = new char[m];
+        String[] ans = new String[m];
         for (int i = 0; i < m; i++) {
-            lastColumn[i] = '#';
+            ans[i] = new String(g[i]);
         }
-
-        lastColumn[0] = '.';
-        for (int i = 1; i < m; i++) {
-            lastColumn[i] = '.';
-        }
-
-        for (int i = 1; i < m; i++) {
-            char[] row = grid[i].toCharArray();
-            row[n - 1] = '.';
-            grid[i] = new String(row);
-        }
-
-        return grid;
+        return ans;
     }
 }
