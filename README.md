@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/KrishanKant2256/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KrishanKant2256/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KrishanKant2256/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KrishanKant2256/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KrishanKant2256/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishanKant2256/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KrishanKant2256/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KrishanKant2256/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/KrishanKant2256/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KrishanKant2256/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KrishanKant2256/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/KrishanKant2256/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/KrishanKant2256/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KrishanKant2256/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/KrishanKant2256/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KrishanKant2256/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KrishanKant2256/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Geometry
 |  |
 | ------- |
