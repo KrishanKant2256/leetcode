@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishanKant2256/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/KrishanKant2256/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KrishanKant2256/leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/KrishanKant2256/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -613,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KrishanKant2256/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KrishanKant2256/leetcode/tree/master/0206-reverse-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/KrishanKant2256/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
